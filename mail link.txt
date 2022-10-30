@@ -1,0 +1,1 @@
+<a href="mailto:vonagame@gmail.com">Example mailto link</a>
